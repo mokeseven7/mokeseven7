@@ -8,20 +8,22 @@ NAME
      mike-mcgrath, mmcgrath
      
 SYNOPSIS
-     mike-mcgrath [--skills[=format] [-C]
+     mike-mcgrath   [--title[=full-stack-engineer] [--experience=[=9 years]]
+
+                    [--languages[=php,node,python,go] [--aws[=cloud practitioner]
+                    
+                    [--frameworks[=laravel, express, django, nest, mux]]
 
 DESCRIPTION
-     Full stack developer with 9 years professional experience. 
-     I enjoy solving problems in from variation of LAMP/LNMP, MEAN/MERN et al, and most recently go and python. 
-     I enjoy owning the infrastructure I deploy to using IAAC frameworks such as the Aws CDK.  
-     I enjoy participating in tehcnical discussions at any level of abstraction, from boxes and lines to in the weeds implementation details.
+     Designing repeatable infrastructure makes me happy.   
+   
      I hope to learn something new everyday. 
      
      The contact options are as follows:
 
-     -e --email          If you'd like to reach me via email, you may do so at me@mike-mcgrath.com
+     -e --email          me@mike-mcgrath.com
 
-     -l --linkedin       If you'd like to reach out on linkedin, you can find me here: https://www.linkedin.com/in/mikemcgrath
+     -l --linkedin       https://www.linkedin.com/in/mikemcgrath
 ```
 
 
