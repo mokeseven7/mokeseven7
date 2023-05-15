@@ -2,38 +2,30 @@
 
 ```bash 
 
-$ man mike-mcgrath
+$ ./mike-mcgrath --help
 
 NAME
-     mike_mcgrath – full stack developer
+     mike-mcgrath, mmcgrath
      
 SYNOPSIS
      mike-mcgrath [--skills[=format] [-C]
 
 DESCRIPTION
-     Full stack developer with 8 years of professional experince living in salt lake city, utah.
-     I have spent the most time in the LAMP/LNMP environment, but also enjoy MEAN/MERN et al. 
-     I enjoy solving scaling and deployment problems in AWS, and other cloud providers.
+     Full stack developer with 9 years professional experience. 
+     I enjoy solving problems in from variation of LAMP/LNMP, MEAN/MERN et al, and most recently go and python. 
+     I enjoy owning the infrastructure I deploy to using IAAC frameworks such as the Aws CDK.  
+     I enjoy participating in tehcnical discussions at any level of abstraction, from boxes and lines to in the weeds implementation details.
      I hope to learn something new everyday. 
      
-     The options are as follows:
+     The contact options are as follows:
 
-     -C      if you would like ot get in touch with me, please feel free to reachout via email at
-             mokeseven7@gmail.com
+     -e --email          If you'd like to reach me via email, you may do so at me@mike-mcgrath.com
+
+     -l --linkedin       If you'd like to reach out on linkedin, you can find me here: https://www.linkedin.com/in/mikemcgrath
 ```
 
----
 
 
-<samp>&nbsp; [Email](mokeseven7@gmail.com) | [Github](https://github.com/mokeseven7) | [Github](https://github.com/undefinedfn) | [LinkedIn](https://www.linkedin.com/in/mikemcgrath)</samp>
-
-
----
-
-
-
-
-![Mikes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokeseven7&theme=yeblu&show_icons=true)
 
 
 
