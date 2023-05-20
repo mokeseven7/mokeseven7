@@ -1,5 +1,9 @@
-## Getting Started
+## Quick Start
 
+Simply visit [mike-mcgrath.com](https://mike-mcgrath.com) in a web browswer
+
+
+## Advanced Usage
 ```bash 
 
 $ ./mike-mcgrath --help
